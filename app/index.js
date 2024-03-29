@@ -14,7 +14,7 @@
     };
         
     async function connectToServer() {    
-        const ws = new WebSocket('wss://localhost:7071/ws');
+        const ws = new WebSocket('wss://resisted-incandescent-frown.glitch.me');
         return new Promise((resolve, reject) => {
             const timer = setInterval(() => {
                 if(ws.readyState === 1) {
