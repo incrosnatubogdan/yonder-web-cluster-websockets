@@ -51,5 +51,6 @@ Move your mouse around the browser window. Your cursor's position is broadcasted
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Online testing environment
-
-# ws://web-cluster-websockets.adaptable.app/
+```bash
+ws://web-cluster-websockets.adaptable.app/
+```
